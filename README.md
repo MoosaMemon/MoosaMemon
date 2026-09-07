@@ -2,17 +2,17 @@
 
 <a href="https://moosamemon.me">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img alt="Moosa Memon, AI automation engineer. I build AI systems that survive production. Karachi, Pakistan, working US hours. RAG, agents, automation." src="assets/hero-light.svg" width="871">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2">
+    <img alt="Moosa Memon, AI automation engineer. I build AI systems that survive production. Karachi, Pakistan, working US hours. RAG, agents, automation." src="assets/hero-light.svg?v=2" width="871">
   </picture>
 </a>
 
 <p>
-  <a href="https://moosamemon.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg"><img alt="moosamemon.me" src="assets/btn-website-light.svg"></picture></a>
-  <a href="https://www.linkedin.com/in/moosamemon/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg"></picture></a>
-  <a href="https://x.com/moosamemonn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-dark.svg"><img alt="X, @moosamemonn" src="assets/btn-x-light.svg"></picture></a>
-  <a href="mailto:notmoosamemon@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img alt="Email" src="assets/btn-email-light.svg"></picture></a>
-  <a href="https://moosamemon.me/contact/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-call-dark.svg"><img alt="Book a call" src="assets/btn-call-light.svg"></picture></a>
+  <a href="https://moosamemon.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg?v=2"><img alt="moosamemon.me" src="assets/btn-website-light.svg?v=2"></picture></a>
+  <a href="https://www.linkedin.com/in/moosamemon/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg?v=2"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg?v=2"></picture></a>
+  <a href="https://x.com/moosamemonn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-dark.svg?v=2"><img alt="X, @moosamemonn" src="assets/btn-x-light.svg?v=2"></picture></a>
+  <a href="mailto:notmoosamemon@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg?v=2"><img alt="Email" src="assets/btn-email-light.svg?v=2"></picture></a>
+  <a href="https://moosamemon.me/contact/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-call-dark.svg?v=2"><img alt="Book a call" src="assets/btn-call-light.svg?v=2"></picture></a>
 </p>
 
 **AI Automation Engineer at UnitZero** since September 2025. BS in Artificial Intelligence from FAST-NUCES, Karachi. Based in Karachi, working US hours.
@@ -24,14 +24,14 @@ I build retrieval pipelines that answer from messy internal documents, agent wor
 Each row links to the case study on [moosamemon.me](https://moosamemon.me/work/). The repos are private, so the write-ups are the public record. Numbers appear only where they were measured.
 
 <p>
-<a href="https://moosamemon.me/work/customer-ops-agent/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-customer-ops-agent-dark.svg"><img alt="01. A support agent that asks before it acts. 0% false-action rate on a 44-case golden set, enforced as a CI gate. LangGraph, MCP, FastAPI, Qdrant, Langfuse." src="assets/row-customer-ops-agent-light.svg" width="871"></picture></a>
-<a href="https://moosamemon.me/work/fintex/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-fintex-dark.svg"><img alt="02. A financial research agent for the PSX that shows its sources. Router at 20 of 20 with 0% wrong routes, from 13.6 and 32% before the rewrite. FastAPI, Gemini, Qdrant, Supabase, React." src="assets/row-fintex-light.svg" width="871"></picture></a>
-<a href="https://moosamemon.me/work/beachhead/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-beachhead-dark.svg"><img alt="03. Flagging invasive species a year before official detection. 5 of 7 real invasions flagged 12 to 36 months before official first detection. Python, FastAPI, GBIF API, WorldClim." src="assets/row-beachhead-light.svg" width="871"></picture></a>
-<a href="https://moosamemon.me/work/autopricer/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-autopricer-dark.svg"><img alt="04. A price prediction API that explains every rupee. Median latency 730 to 380 ms after the cache, 0 failures at 20 users, R squared 0.94. FastAPI, scikit-learn, SHAP, Redis, Grafana." src="assets/row-autopricer-light.svg" width="871"></picture></a>
-<a href="https://moosamemon.me/work/verify-bridge/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-verify-bridge-dark.svg"><img alt="05. A support agent that can't touch an account it hasn't verified. 403 on every bypass, prompt or webhook, with a denial in the audit log. Dify, n8n, FastAPI, Qdrant, Langfuse." src="assets/row-verify-bridge-light.svg" width="871"></picture></a>
-<a href="https://moosamemon.me/work/ops-relay/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-ops-relay-dark.svg"><img alt="06. An ops hub where the AI can't certify its own claims. 117 tests on the real pipeline; a fact is verified only if the platform sent it. LangGraph, Claude API, n8n, Supabase, Slack." src="assets/row-ops-relay-light.svg" width="871"></picture></a>
-<a href="https://moosamemon.me/work/converse-iq/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-converse-iq-dark.svg"><img alt="07. A WhatsApp booking agent that cannot double-book. 145 offline tests; any wrong-date booking fails the eval run outright. FastAPI, Gemini, Qdrant, WhatsApp Cloud API." src="assets/row-converse-iq-light.svg" width="871"></picture></a>
-<a href="https://moosamemon.me/work/doclens/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-doclens-dark.svg"><img alt="08. Answers from your PDFs, with the source highlighted on the page. Page-level citations on every answer; declines instead of guessing. FastAPI, LangChain, ChromaDB, React, Groq." src="assets/row-doclens-light.svg" width="871"></picture></a>
+<a href="https://moosamemon.me/work/customer-ops-agent/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-customer-ops-agent-dark.svg?v=2"><img alt="01. A support agent that asks before it acts. 0% false-action rate on a 44-case golden set, enforced as a CI gate. LangGraph, MCP, FastAPI, Qdrant, Langfuse." src="assets/row-customer-ops-agent-light.svg?v=2" width="871"></picture></a>
+<a href="https://moosamemon.me/work/fintex/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-fintex-dark.svg?v=2"><img alt="02. A financial research agent for the PSX that shows its sources. Router at 20 of 20 with 0% wrong routes, from 13.6 and 32% before the rewrite. FastAPI, Gemini, Qdrant, Supabase, React." src="assets/row-fintex-light.svg?v=2" width="871"></picture></a>
+<a href="https://moosamemon.me/work/beachhead/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-beachhead-dark.svg?v=2"><img alt="03. Flagging invasive species a year before official detection. 5 of 7 real invasions flagged 12 to 36 months before official first detection. Python, FastAPI, GBIF API, WorldClim." src="assets/row-beachhead-light.svg?v=2" width="871"></picture></a>
+<a href="https://moosamemon.me/work/autopricer/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-autopricer-dark.svg?v=2"><img alt="04. A price prediction API that explains every rupee. Median latency 730 to 380 ms after the cache, 0 failures at 20 users, R squared 0.94. FastAPI, scikit-learn, SHAP, Redis, Grafana." src="assets/row-autopricer-light.svg?v=2" width="871"></picture></a>
+<a href="https://moosamemon.me/work/verify-bridge/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-verify-bridge-dark.svg?v=2"><img alt="05. A support agent that can't touch an account it hasn't verified. 403 on every bypass, prompt or webhook, with a denial in the audit log. Dify, n8n, FastAPI, Qdrant, Langfuse." src="assets/row-verify-bridge-light.svg?v=2" width="871"></picture></a>
+<a href="https://moosamemon.me/work/ops-relay/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-ops-relay-dark.svg?v=2"><img alt="06. An ops hub where the AI can't certify its own claims. 117 tests on the real pipeline; a fact is verified only if the platform sent it. LangGraph, Claude API, n8n, Supabase, Slack." src="assets/row-ops-relay-light.svg?v=2" width="871"></picture></a>
+<a href="https://moosamemon.me/work/converse-iq/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-converse-iq-dark.svg?v=2"><img alt="07. A WhatsApp booking agent that cannot double-book. 145 offline tests; any wrong-date booking fails the eval run outright. FastAPI, Gemini, Qdrant, WhatsApp Cloud API." src="assets/row-converse-iq-light.svg?v=2" width="871"></picture></a>
+<a href="https://moosamemon.me/work/doclens/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-doclens-dark.svg?v=2"><img alt="08. Answers from your PDFs, with the source highlighted on the page. Page-level citations on every answer; declines instead of guessing. FastAPI, LangChain, ChromaDB, React, Groq." src="assets/row-doclens-light.svg?v=2" width="871"></picture></a>
 </p>
 
 More agents, RAG, automation, ML systems, environmental pipelines and LLM infrastructure in [the full index](https://moosamemon.me/work/).
@@ -62,8 +62,8 @@ More agents, RAG, automation, ML systems, environmental pipelines and LLM infras
 
 <a href="https://moosamemon.me/contact/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cta-dark.svg">
-    <img alt="Bring me the problem, leave with how I'd build it. 20 minutes, no pitch. Book a call." src="assets/cta-light.svg" width="871">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cta-dark.svg?v=2">
+    <img alt="Bring me the problem, leave with how I'd build it. 20 minutes, no pitch. Book a call." src="assets/cta-light.svg?v=2" width="871">
   </picture>
 </a>
 
