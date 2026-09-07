@@ -269,7 +269,7 @@ def row(theme: str, i: int, s: dict) -> str:
 """
     tx, fx, rx = 56, 548, W - 8
     parts = [text(8, 36, f"{i:02d}", "mm num faint")]
-    tl = DISPLAY.wrap(s["title"], 21, fx - - 24)
+    tl = DISPLAY.wrap(s["title"], 21, fx - tx - 24)
     for j, ln in enumerate(tl[:2]):
         parts.append(text(tx, 36 + j * 25, ln, "d title"))
     parts.append(text(tx, 92, s["stack"], "m small faint"))
